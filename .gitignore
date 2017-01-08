@@ -1,1 +1,4 @@
 /Debug/
+hello
+*.o
+*.h
