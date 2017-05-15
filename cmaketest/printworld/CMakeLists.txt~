@@ -1,0 +1,5 @@
+FILE(GLOB_RECURSE all_files
+*.cpp)
+
+add_library(world STATIC ${all_files})
+
